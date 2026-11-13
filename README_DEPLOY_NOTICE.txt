@@ -1,0 +1,1 @@
+LITTLE FOREST R0.4 remote proposal. Deployment requires client-data/photo rights and scope/price approval. Netlify Drop static preview only. The file noindex is NOT password/access protection. No actual server was deployed by this package.
